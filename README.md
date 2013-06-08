@@ -1,5 +1,5 @@
 
-=== CV3 API Examples ===
+### CV3 API Examples
 
 A collection of examples in various languages that access the CV3 API web service.
 
@@ -9,6 +9,6 @@ find in CV3 under:
 
    Setting >> Options >> General Store Options and Information
 
-=== Bonus Content ===
+### Bonus Content
 
 * Quickbooks -- the Ruby example includes some basic integration with Quickbooks Enterprise
